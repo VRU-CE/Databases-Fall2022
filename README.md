@@ -20,10 +20,17 @@
   <h2 align="center"> Teaching Assistants </h2>
 <p h2 align="center">
 
-### `Head TA`: 
-[Parsa Kamalipour - پارسا کمالی پور](https://github.com/benymaxparsa)  
+### `Co-Head TAs`: 
+[Parsa Kamalipour - پارسا کمالی پور](https://github.com/benymaxparsa)   
+[Mohammad Hosein(Cena) Ashoori - سینا عشوری](https://github.com/CenaAshoori)  
 
-### `TAs`:
-[Mohammad Hosein(Cena) Ashoori - سینا عشوری](https://github.com/CenaAshoori)   
+### `TAs`: 
 [Mohammad Mehdi Afkhami - محمد مهدی افخمی](https://github.com/mohmehdi)   
 [Mohammad Amin Ahmadi - محمد امین احمدی](https://github.com/mmdaminah)   
+
+<br />
+<p align="center">
+  <h2 align="center"> Link of class: </h2>
+  
+<p h2 align="center">
+<a href="https://quera.org/course/add_to_course/course/11911">Quera</a>
